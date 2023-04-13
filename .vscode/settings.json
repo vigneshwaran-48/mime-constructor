@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/vigneshwaran/JarFiles/guava-23.0.jar"
+    ]
+}
