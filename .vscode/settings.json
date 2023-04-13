@@ -3,6 +3,9 @@
         "lib/**/*.jar",
         "/home/vigneshwaran/JarFiles/guava-23.0.jar",
         "/home/vigneshwaran/JarFiles/mail.jar",
-        "/home/vigneshwaran/JarFiles/activation.jar"
+        "/home/vigneshwaran/JarFiles/activation.jar",
+        "/home/vicky/jarfiles/mail.jar",
+        "/home/vicky/jarfiles/guava-23.0.jar",
+        "/home/vicky/jarfiles/activation.jar"
     ]
 }
